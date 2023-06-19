@@ -55,3 +55,4 @@ vpc_id   = module.vpc.public_subnets[0]
   egress_cidr_blocks = ["0.0.0.0/0"]
 }
 
+
